@@ -177,11 +177,11 @@ Product Metric Selection = {
 
 ### Page 1: Executive Summary  
 ![Executive Summary](https://github.com/Dheeru0133/PowerBi/blob/main/images/exec_summary.png?raw=true)
-### Page 2: Regional Insights  
-![Regional Insights]
+### Page 2: Regional Insights
+![Regional Insights](https://github.com/Dheeru0133/PowerBi/blob/main/images/regional_insights.png?raw=true)
 
 ### Page 3: Product Performance  
-![Product Performance]([images/screenshot3.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/product_perf.png?raw=true))
+![Product Performance]()
 
 ### Page 4: Customer Insights  
 ![Customer Insights](https://github.com/Dheeru0133/PowerBi/blob/main/images/customer_insights.png?raw=true)
