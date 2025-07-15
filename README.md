@@ -147,3 +147,55 @@ Product Metric Selection = {
     ("Total Returns", NAMEOF('Table Measues'[Total Returns]), 3),
     ("Return Rate", NAMEOF('Table Measues'[Return Rate]), 4)
 }
+```
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Star Schema Data Modeling  
+- Custom Tooltips & Bookmark Navigation  
+- Gauge Charts, Slicers, Area Charts, Maps
+
+---
+
+## 🧠 What I Learned
+
+- Designing a clean star schema with multiple fact and dimension tables  
+- Writing advanced DAX: time intelligence, targets, rolling periods  
+- Building multi-page dashboards with interactivity and storytelling  
+- Creating dynamic charts with metric selection and custom tooltips  
+- Using bookmarks, navigation buttons, and slicer panels for UX
+
+---
+
+## 🖼️ Dashboard Preview
+
+> 📌 Replace the links below with your actual GitHub image links
+
+### Page 1: Executive Summary  
+![Executive Summary](images/screenshot1.png)
+
+### Page 2: Regional Insights  
+![Regional Insights](images/screenshot2.png)
+
+### Page 3: Product Performance  
+![Product Performance](images/screenshot3.png)
+
+### Page 4: Customer Insights  
+![Customer Insights](images/screenshot4.png)
+
+### Tooltip Page  
+![Tooltip Page](images/screenshot5.png)
+
+---
+
+## 💼 Resume Bullet Points
+
+- Designed an interactive multi-page Power BI dashboard using 11 data tables and DAX, enabling business insights into sales, profit, customer trends, and return behavior.  
+- Developed advanced DAX measures (e.g., rolling period, target gaps, revenue per customer) and implemented dynamic KPI tracking using metric selection toggles.  
+- Modeled a clean star schema with fact and dimension tables; built custom navigation using bookmarks, slicers, and tooltips across 4+ dashboard pages.  
+- Delivered actionable insights via top products, customer segments, return rate trends, and regional sales performance with drill-through and selection logic.  
+- Implemented custom visual experiences (e.g., gauge charts, area charts, maps) with data storytelling and dynamic comparison against prior targets.
