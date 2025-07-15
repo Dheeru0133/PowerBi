@@ -182,7 +182,7 @@ Product Metric Selection = {
 ![Regional Insights]([images/screenshot2.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/regional_insights.png?raw=true))
 
 ### Page 3: Product Performance  
-![Product Performance](images/screenshot3.png)
+![Product Performance]([images/screenshot3.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/product_perf.png?raw=true))
 
 ### Page 4: Customer Insights  
 ![Customer Insights](images/screenshot4.png)
