@@ -176,9 +176,9 @@ Product Metric Selection = {
 > 📌 Replace the links below with your actual GitHub image links
 
 ### Page 1: Executive Summary  
-![Executive Summary]
+![Executive Summary](https://github.com/Dheeru0133/PowerBi/blob/main/images/exec_summary.png?raw=true)
 ### Page 2: Regional Insights  
-![Regional Insights]([images/screenshot2.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/regional_insights.png?raw=true))
+![Regional Insights]
 
 ### Page 3: Product Performance  
 ![Product Performance]([images/screenshot3.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/product_perf.png?raw=true))
