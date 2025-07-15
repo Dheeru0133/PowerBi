@@ -176,8 +176,7 @@ Product Metric Selection = {
 > 📌 Replace the links below with your actual GitHub image links
 
 ### Page 1: Executive Summary  
-![Executive Summary]([images/screenshot1.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/exec_summary.png?raw=true))
-
+![Executive Summary]
 ### Page 2: Regional Insights  
 ![Regional Insights]([images/screenshot2.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/regional_insights.png?raw=true))
 
@@ -188,7 +187,7 @@ Product Metric Selection = {
 ![Customer Insights](https://github.com/Dheeru0133/PowerBi/blob/main/images/customer_insights.png?raw=true)
 
 ### Tooltip Page  
-![Tooltip Page](images/screenshot5.png)
+![Tooltip Page]([images/screenshot5.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/tooltip.png?raw=true))
 
 ---
 
