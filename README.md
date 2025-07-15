@@ -187,7 +187,7 @@ Product Metric Selection = {
 ![Customer Insights](https://github.com/Dheeru0133/PowerBi/blob/main/images/customer_insights.png?raw=true)
 
 ### Tooltip Page  
-![Tooltip Page]()
+![Tooltip Page](https://github.com/Dheeru0133/PowerBi/blob/main/images/tooltip.png?raw=true)
 
 ---
 
