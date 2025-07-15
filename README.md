@@ -185,7 +185,7 @@ Product Metric Selection = {
 ![Product Performance]([images/screenshot3.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/product_perf.png?raw=true))
 
 ### Page 4: Customer Insights  
-![Customer Insights](images/screenshot4.png)
+![Customer Insights](https://github.com/Dheeru0133/PowerBi/blob/main/images/customer_insights.png?raw=true)
 
 ### Tooltip Page  
 ![Tooltip Page](images/screenshot5.png)
