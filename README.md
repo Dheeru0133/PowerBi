@@ -179,7 +179,7 @@ Product Metric Selection = {
 ![Executive Summary]([images/screenshot1.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/exec_summary.png?raw=true))
 
 ### Page 2: Regional Insights  
-![Regional Insights](images/screenshot2.png)
+![Regional Insights]([images/screenshot2.png](https://github.com/Dheeru0133/PowerBi/blob/main/images/regional_insights.png?raw=true))
 
 ### Page 3: Product Performance  
 ![Product Performance](images/screenshot3.png)
